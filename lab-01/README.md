@@ -10,7 +10,8 @@
 
 ## Live Deployment
 
-Not deployed yet.
+
+https://batchu-venkatamanisai.onrender.com
 
 ## Project Description
 
