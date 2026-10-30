@@ -52,16 +52,27 @@ Start the basic HTTP server:
 node http-server.js
 ```
 
-Server URL: http://localhost:3000
+Server URL:  https://batchu-venkatamanisai.onrender.com
 
-## API Endpoints
+
+## Live API Endpoints
+
+Base URL: https://batchu-venkatamanisai.onrender.com
 
 | Method | Endpoint | Description | Status |
 |---|---|---|---|
 | GET | / | Welcome message | 200 |
-| GET | /about | Student details | 200 |
-| GET | /time | Current date and time | 200 |
-| GET | /unknown | Not found response | 404 |
+| GET | /about | Student name and section in JSON | 200 |
+| GET | /time | Current date and time in JSON | 200 |
+| GET | /unknown | 404 error response | 404 |
+
+### Test Links
+
+- [Home](https://batchu-venkatamanisai.onrender.com/)
+- [About](https://batchu-venkatamanisai.onrender.com/about)
+- [Time](https://batchu-venkatamanisai.onrender.com/time)
+- [Unknown Route](https://batchu-venkatamanisai.onrender.com/unknown)
+
 
 ## Screenshots
 
