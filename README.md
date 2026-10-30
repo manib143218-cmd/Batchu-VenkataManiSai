@@ -1,25 +1,41 @@
-# Backend Development Fundamentals – Lab Submissions
+# Backend Development Fundamentals
 
-## Student Details
+**Student Name:** BATCHU VENKATA MANI SAI  
+**Registration Number:** 252U1R1029  
+**Course:** B.Tech CSE  
+**Section:** CSE-2A (S-15)
 
-- Name: BATCHU VENKATA MANI SAI
-- Course: B.Tech CSE
-- Section: CSE-2A (S-15)
+## Lab Submissions
 
-## Lab 1: Node.js and Express Server
+| Lab | Title | Live Deployment | Source Code |
+|---|---|---|---|
+| Lab 1 | Node.js and Express Server | [Live Demo](https://batchu-venkatamanisai.onrender.com) | [lab-01](lab-01/) |
+| Lab 2 | SQLite Database and CRUD Routes | [Live Demo](https://mani-lab-2.onrender.com) | [lab-02](lab-02/) |
 
-- Folder: `lab-01`
-- Technologies: Node.js, Express.js, JavaScript
-- Deployment: https://batchu-venkatamanisai.onrender.com
+## Technologies Used
 
-## Lab Documentation
+- Node.js
+- Express.js
+- SQLite
+- JavaScript
+- Git and GitHub
+- Postman
 
-[View Lab 1 README](lab-01/README.md)
+## Repository Structure
 
-## Live Application
+```text
+Batchu-VenkataManiSai/
+│
+├── lab-01/
+│   └── README.md
+│
+├── lab-02/
+│   ├── README.md
+│   ├── server.js
+│   ├── books.db
+│   └── screenshots/
+│
+└── README.md
+```
 
-[Open Deployed Express Server](https://batchu-venkatamanisai.onrender.com/)
-
-## GitHub Repository
-
-[Batchu-VenkataManiSai](https://github.com/manib143218-cmd/Batchu-VenkataManiSai)
+Each lab folder contains its own source code, README, and required screenshots.
