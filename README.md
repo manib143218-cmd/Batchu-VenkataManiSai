@@ -11,7 +11,7 @@
 |---|---|---|---|
 | Lab 1 | Node.js and Express Server | [Live Demo](https://batchu-venkatamanisai.onrender.com) | [lab-01](lab-01/) |
 | Lab 2 | SQLite Database and CRUD Routes | [Live Demo](https://mani-lab-2.onrender.com) | [lab-02](lab-02/) |
-| Lab 3 | REST API, Query Parameters, Validation and Debugging | Deployment Pending | [lab-03](lab-03/) |
+| Lab 3 | REST API, Query Parameters, Validation and Debugging | [Live Demo](https://batchu-venkatamanisai-lab-3.onrender.com) | [lab-03](lab-03/) |
 
 ## Technologies Used
 
