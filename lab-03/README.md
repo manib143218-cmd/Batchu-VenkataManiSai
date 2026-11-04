@@ -66,9 +66,13 @@ npm install
 npm run dev
 ```
 
-3. Local server URL:
+3. Local development URL:
 
 [http://localhost:3000/](http://localhost:3000/)
+
+4. Live deployed server:
+
+[https://batchu-venkatamanisai-lab-3.onrender.com](https://batchu-venkatamanisai-lab-3.onrender.com)
 
 ## API Endpoints
 
@@ -96,31 +100,31 @@ The GET `/books/` endpoint supports:
 
 ### Example Requests
 
-Search:
+**Search:**
 
 ```text
 GET /books/?search_q=Atomic
 ```
 
-Sort by price:
+**Sort by price:**
 
 ```text
 GET /books/?order_by=price&order=DESC
 ```
 
-Pagination:
+**Pagination:**
 
 ```text
 GET /books/?limit=3&offset=3
 ```
 
-Filter by price:
+**Filter by price:**
 
 ```text
 GET /books/?min_price=300&max_price=450
 ```
 
-Combined filters:
+**Combined filters:**
 
 ```text
 GET /books/?search_q=The&order_by=price&order=ASC&limit=5&offset=0&min_price=250&max_price=500
